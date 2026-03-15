@@ -254,5 +254,13 @@
     "last_hwid_set": "2026-03-15T01:39:42.439924+00:00",
     "script_type": "pls_donate",
     "expires_at": null
+  },
+  "Lumen-F2FujtGvftY": {
+    "discord_id": "1482458285830570128",
+    "hwid": null,
+    "created_at": "2026-03-15T03:41:32.709376+00:00",
+    "last_hwid_set": null,
+    "script_type": "pls_donate",
+    "expires_at": null
   }
 }
