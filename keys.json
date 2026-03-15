@@ -209,9 +209,9 @@
   },
   "527key": {
     "discord_id": "1431995372280090667",
-    "hwid": "stupid nigger",
+    "hwid": null,
     "created_at": "2026-03-12T00:31:04.892728+00:00",
-    "last_hwid_set": "2026-03-15T21:17:47.928684+00:00",
+    "last_hwid_set": null,
     "script_type": "pls_donate",
     "expires_at": null
   },
