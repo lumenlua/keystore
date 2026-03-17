@@ -209,7 +209,7 @@
   },
   "Lumen-HuXw4VGMooY": {
     "discord_id": "1023387423260033024",
-    "hwid": "237DC28F-43EA-42F9-B6BB-9AC2ED5CE98E",
+    "hwid": null,
     "created_at": "2026-03-12T17:54:37.268866+00:00",
     "last_hwid_set": null,
     "script_type": "pls_donate",
