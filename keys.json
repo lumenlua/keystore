@@ -298,18 +298,18 @@
   },
   "Lumen-iIDUuS-frFg": {
     "discord_id": "186296704499318784",
-    "hwid": null,
+    "hwid": "F6F0D5B8-3014-411B-835E-672A5A43A8BC",
     "script_type": "pls_donate",
     "created_at": "2026-03-19T05:37:43.114772+00:00",
-    "last_hwid_set": null,
+    "last_hwid_set": "2026-03-19T06:31:24.968901+00:00",
     "expires_at": "2026-03-26T05:37:43.114772+00:00"
   },
   "Lumen-GwJXg6YZFOk": {
     "discord_id": "186296704499318784",
-    "hwid": null,
+    "hwid": "F6F0D5B8-3014-411B-835E-672A5A43A8BC",
     "script_type": "avatar",
     "created_at": "2026-03-19T05:38:03.499770+00:00",
-    "last_hwid_set": null,
+    "last_hwid_set": "2026-03-19T06:31:24.968901+00:00",
     "expires_at": "2026-03-26T05:38:03.499770+00:00"
   }
 }
