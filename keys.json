@@ -121,9 +121,9 @@
   },
   "Lumen-mq_1bBXKLJ8": {
     "discord_id": "435057711428927488",
-    "hwid": "479CBA67-D364-40C7-81C2-CA5DB5038FD1",
+    "hwid": "Lumen-U4t-wG5F_3w",
     "created_at": "2026-03-08T10:12:29.432373+00:00",
-    "last_hwid_set": null,
+    "last_hwid_set": "2026-03-21T16:46:42.698009+00:00",
     "script_type": "pls_donate",
     "expires_at": null
   },
@@ -314,10 +314,10 @@
   },
   "Lumen-U4t-wG5F_3w": {
     "discord_id": "435057711428927488",
-    "hwid": null,
+    "hwid": "Lumen-U4t-wG5F_3w",
     "script_type": "Catalog_Gifter",
     "created_at": "2026-03-21T16:43:01.298210+00:00",
-    "last_hwid_set": null,
+    "last_hwid_set": "2026-03-21T16:46:42.698009+00:00",
     "expires_at": null
   }
 }
