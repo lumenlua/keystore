@@ -209,9 +209,9 @@
   },
   "Lumen-iwBOwHoG4X8": {
     "discord_id": "1482108963469131857",
-    "hwid": "18B86FF7-DD23-43BC-B45C-60EF9E08F834",
+    "hwid": null,
     "created_at": "2026-03-14T13:45:32.307906+00:00",
-    "last_hwid_set": "2026-03-23T20:46:05.465301+00:00",
+    "last_hwid_set": null,
     "script_type": "pls_donate",
     "expires_at": null
   },
@@ -342,10 +342,10 @@
   },
   "Lumen-cuiZqUyRe4E": {
     "discord_id": "1482108963469131857",
-    "hwid": "18B86FF7-DD23-43BC-B45C-60EF9E08F834",
+    "hwid": null,
     "script_type": "Catalog_Gifter",
     "created_at": "2026-03-23T18:56:31.028026+00:00",
-    "last_hwid_set": "2026-03-23T20:46:05.465301+00:00",
+    "last_hwid_set": null,
     "expires_at": null
   }
 }
