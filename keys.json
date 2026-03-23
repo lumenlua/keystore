@@ -131,7 +131,7 @@
     "discord_id": "1448635934852513853",
     "hwid": null,
     "created_at": "2026-03-08T17:12:33.759753+00:00",
-    "last_hwid_set": "2026-03-15T20:18:33.630099+00:00",
+    "last_hwid_set": null,
     "script_type": "pls_donate",
     "expires_at": null
   },
