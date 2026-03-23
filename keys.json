@@ -270,7 +270,8 @@
     "script_type": "pls_donate",
     "created_at": "2026-03-17T20:35:48.698020+00:00",
     "last_hwid_set": null,
-    "expires_at": "2026-03-24T20:35:48.698020+00:00"
+    "expires_at": "2026-03-24T20:35:48.698020+00:00",
+    "warned_expiry": true
   },
   "Lumen-CJQrznulmHk": {
     "discord_id": "1481022080777715863",
@@ -278,7 +279,8 @@
     "script_type": "pls_donate",
     "created_at": "2026-03-17T20:36:08.406899+00:00",
     "last_hwid_set": "2026-03-18T11:18:00.765691+00:00",
-    "expires_at": "2026-03-24T20:36:08.406899+00:00"
+    "expires_at": "2026-03-24T20:36:08.406899+00:00",
+    "warned_expiry": true
   },
   "Lumen-lzo2H-Cfmes": {
     "discord_id": "1091597851102019686",
@@ -286,7 +288,8 @@
     "script_type": "pls_donate",
     "created_at": "2026-03-17T20:36:27.848768+00:00",
     "last_hwid_set": "2026-03-18T02:26:10.228627+00:00",
-    "expires_at": "2026-03-24T20:36:27.848768+00:00"
+    "expires_at": "2026-03-24T20:36:27.848768+00:00",
+    "warned_expiry": true
   },
   "Lumen-QTfUBwnYNGo": {
     "discord_id": "1440895041588428966",
@@ -294,7 +297,8 @@
     "script_type": "pls_donate",
     "created_at": "2026-03-17T20:36:45.613047+00:00",
     "last_hwid_set": "2026-03-23T09:55:01.951034+00:00",
-    "expires_at": "2026-03-24T20:36:45.613047+00:00"
+    "expires_at": "2026-03-24T20:36:45.613047+00:00",
+    "warned_expiry": true
   },
   "Lumen-iIDUuS-frFg": {
     "discord_id": "186296704499318784",
