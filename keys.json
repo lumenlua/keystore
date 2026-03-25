@@ -262,7 +262,8 @@
     "script_type": "pls_donate",
     "created_at": "2026-03-19T05:37:43.114772+00:00",
     "last_hwid_set": "2026-03-19T06:31:24.968901+00:00",
-    "expires_at": "2026-03-26T05:37:43.114772+00:00"
+    "expires_at": "2026-03-26T05:37:43.114772+00:00",
+    "warned_expiry": true
   },
   "Lumen-GwJXg6YZFOk": {
     "discord_id": "186296704499318784",
