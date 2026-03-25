@@ -105,9 +105,9 @@
   },
   "Lumen-354MeYez4ww": {
     "discord_id": "1208499928696098889",
-    "hwid": "9F7DEF6B-EBD0-4503-8DB1-1BF488E3171E",
+    "hwid": null,
     "created_at": "2026-02-27T22:26:10.916127+00:00",
-    "last_hwid_set": "2026-03-18T20:34:06.085081+00:00",
+    "last_hwid_set": null,
     "script_type": "pls_donate",
     "expires_at": null
   },
