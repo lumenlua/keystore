@@ -75,7 +75,7 @@
     "discord_id": "886791632572252191",
     "hwid": "B5265A42-A97E-4E5D-8EBF-C4A2393D4354",
     "created_at": "2026-02-24T00:36:10.025941+00:00",
-    "last_hwid_set": "2026-04-09T20:26:53.539890+00:00",
+    "last_hwid_set": "2026-04-09T22:34:59.051235+00:00",
     "script_type": "pls_donate",
     "expires_at": null
   },
@@ -322,10 +322,10 @@
   },
   "iWhipuREQ2scQPWW-RN_5Q": {
     "discord_id": "886791632572252191",
-    "hwid": null,
+    "hwid": "B5265A42-A97E-4E5D-8EBF-C4A2393D4354",
     "script_type": "avatar",
     "created_at": "2026-04-09T22:31:29.572037+00:00",
-    "last_hwid_set": null,
+    "last_hwid_set": "2026-04-09T22:34:59.051235+00:00",
     "expires_at": null
   }
 }
