@@ -153,9 +153,9 @@
   },
   "Lumen-h5T82R5XqlI": {
     "discord_id": "913251020375752704",
-    "hwid": "912CEE0A-067A-4827-ADC0-E03D60864FC4",
+    "hwid": null,
     "created_at": "2026-03-09T22:26:57.859419+00:00",
-    "last_hwid_set": "2026-04-05T19:28:33.523259+00:00",
+    "last_hwid_set": null,
     "script_type": "pls_donate",
     "expires_at": null
   },
