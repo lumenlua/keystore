@@ -336,11 +336,19 @@
     "last_hwid_set": null,
     "expires_at": null
   },
-  "jh2jO6FAnG_bkLvo6lohiw": {
+  "tofLux7iIyGoZnx2WGnbzQ": {
     "discord_id": "1421841550891286569",
     "hwid": null,
     "script_type": "Catalog_Gifter",
-    "created_at": "2026-05-09T15:40:06.821531+00:00",
+    "created_at": "2026-05-09T15:40:14.765552+00:00",
+    "last_hwid_set": null,
+    "expires_at": "2026-05-10T03:40:14.765552+00:00"
+  },
+  "9RUWi2mFVA2IOCWtGJFDzQ": {
+    "discord_id": "1421841550891286569",
+    "hwid": null,
+    "script_type": "pls_donate",
+    "created_at": "2026-05-09T15:40:34.625446+00:00",
     "last_hwid_set": null,
     "expires_at": null
   }
