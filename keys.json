@@ -343,5 +343,13 @@
     "created_at": "2026-05-09T15:40:34.625446+00:00",
     "last_hwid_set": "2026-05-09T15:42:33.027023+00:00",
     "expires_at": null
+  },
+  "hUNW37Bc9LIEUOH5rL_uYw": {
+    "discord_id": "1431995372280090667",
+    "hwid": null,
+    "script_type": "avatar",
+    "created_at": "2026-05-13T19:19:31.272656+00:00",
+    "last_hwid_set": null,
+    "expires_at": "2026-05-14T19:19:31.272656+00:00"
   }
 }
