@@ -350,6 +350,7 @@
     "script_type": "avatar",
     "created_at": "2026-05-13T19:19:31.272656+00:00",
     "last_hwid_set": null,
-    "expires_at": "2026-05-14T19:19:31.272656+00:00"
+    "expires_at": "2026-05-14T19:19:31.272656+00:00",
+    "warned_expiry": true
   }
 }
