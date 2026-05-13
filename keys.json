@@ -352,5 +352,13 @@
     "last_hwid_set": null,
     "expires_at": "2026-05-14T19:19:31.272656+00:00",
     "warned_expiry": true
+  },
+  "IcgzsMrlWs6uBp5eAOQDSw": {
+    "discord_id": "1448635934852513853",
+    "hwid": null,
+    "script_type": "Catalog_Gifter",
+    "created_at": "2026-05-13T20:36:20.362121+00:00",
+    "last_hwid_set": null,
+    "expires_at": null
   }
 }
