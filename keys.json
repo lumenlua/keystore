@@ -22,7 +22,13 @@
       "redeemed": false,
       "generated_for_discord_id": "1252218541562925056",
       "generated_by_discord_id": "1252218541562925056",
-      "roblox_accounts": [],
+      "roblox_accounts": [
+        {
+          "roblox_user_id": 2935856577,
+          "roblox_username": "JulianDerAll",
+          "added_by_discord_id": "1252218541562925056"
+        }
+      ],
       "product": "main"
     }
   }
