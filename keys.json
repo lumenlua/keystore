@@ -9,8 +9,8 @@
       "product": "main"
     },
     "ROCTWHC4-GDSUROKG-EP738SQJ-8LYCH6GK": {
-      "status": "unused",
-      "redeemed": false,
+      "status": "active",
+      "redeemed": true,
       "generated_for_discord_id": "1431995372280090667",
       "generated_by_discord_id": "1431995372280090667",
       "roblox_accounts": [
@@ -20,7 +20,8 @@
           "added_by_discord_id": "1431995372280090667"
         }
       ],
-      "product": "main"
+      "product": "main",
+      "redeemed_by_discord_id": "1431995372280090667"
     }
   }
 }
