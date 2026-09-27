@@ -23,5 +23,16 @@
     "author": "n4tewon",
     "script_id": "9d887d4a9e71dc70",
     "published_at": 1790534822
+  },
+  "a6e550344418e88f": {
+    "name": "N8 Universal",
+    "description": "The Best Script you'll ever try",
+    "loadstring": "Loadstring",
+    "game": "Steal An Egg",
+    "game_id": "107778070777162",
+    "features": "ESP All Eggs \nAuto Steal Eggs",
+    "author": "n4tewon",
+    "script_id": "a6e550344418e88f",
+    "published_at": 1790535189
   }
 }
