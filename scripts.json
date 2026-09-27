@@ -34,5 +34,24 @@
     "author": "n4tewon",
     "script_id": "a6e550344418e88f",
     "published_at": 1790535189
+  },
+  "bc526a0ccefb2f0d": {
+    "name": "N8 Universal",
+    "description": "Flings People",
+    "loadstring": "Loadstring",
+    "game": "Steal An Egg",
+    "game_id": "7884389231",
+    "features": "Feature1\nFeature2\n- feature 3",
+    "author": "n4tewon",
+    "script_id": "bc526a0ccefb2f0d",
+    "published_at": 1790536669,
+    "created_at": 1790536669,
+    "revision": 1,
+    "history": [],
+    "analytics": {
+      "views": 0,
+      "pc_copies": 0,
+      "mobile_copies": 0
+    }
   }
 }
