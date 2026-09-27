@@ -10,5 +10,18 @@
     "author": "n4tewon",
     "script_id": "fa219e18e472df38",
     "published_at": 1790518023
+  },
+  "9d887d4a9e71dc70": {
+    "name": "wd",
+    "description": "wd",
+    "loadstring": "wd",
+    "key_required": true,
+    "version": "wd",
+    "game": "wd",
+    "game_id": "1212",
+    "features": "wdwdw\n\n**Notes:** wdwd",
+    "author": "n4tewon",
+    "script_id": "9d887d4a9e71dc70",
+    "published_at": 1790534822
   }
 }
