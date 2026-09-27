@@ -1,4 +1,13 @@
 {
-  "dashboard_message_id": "1553761901639630979",
-  "dashboard_channel_id": "1553751661527302204"
+  "guild_id": "1468015534636269671",
+  "guild_name": "Lumen.lua",
+  "channels": [
+    {
+      "id": "1508219733214756934",
+      "name": "wd",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
+    }
+  ]
 }
