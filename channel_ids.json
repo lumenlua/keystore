@@ -1,15 +1,127 @@
 {
-  "guild_id": "1468015534636269671",
-  "guild_name": "Lumen.lua",
+  "guild_id": "1553739800383717476",
+  "guild_name": "N8 (BETA)",
   "channels": [
     {
-      "id": "1508219733214756934",
-      "name": "wd",
-      "type": "text",
+      "id": "1553739803244372022",
+      "name": "General",
+      "type": "voice",
       "category_id": null,
       "category_name": null
+    },
+    {
+      "id": "1553751655881642154",
+      "name": "👋・welcome",
+      "type": "text",
+      "category_id": "1553745278874423448",
+      "category_name": "INFORMATION"
+    },
+    {
+      "id": "1553751657622409378",
+      "name": "📜・rules",
+      "type": "text",
+      "category_id": "1553745278874423448",
+      "category_name": "INFORMATION"
+    },
+    {
+      "id": "1553751658951876681",
+      "name": "📢・announcements",
+      "type": "text",
+      "category_id": "1553745278874423448",
+      "category_name": "INFORMATION"
+    },
+    {
+      "id": "1553751660415946793",
+      "name": "❓・faq",
+      "type": "text",
+      "category_id": "1553745278874423448",
+      "category_name": "INFORMATION"
+    },
+    {
+      "id": "1553751661527302204",
+      "name": "🛒・dashboard",
+      "type": "text",
+      "category_id": "1553745278874423448",
+      "category_name": "INFORMATION"
+    },
+    {
+      "id": "1553751662496063519",
+      "name": "💻・scripts",
+      "type": "text",
+      "category_id": "1553745279868604597",
+      "category_name": "SCRIPTS"
+    },
+    {
+      "id": "1553755720212680764",
+      "name": "🎥・showcases",
+      "type": "text",
+      "category_id": "1553745279868604597",
+      "category_name": "SCRIPTS"
+    },
+    {
+      "id": "1553755724713033808",
+      "name": "🔄・updates",
+      "type": "text",
+      "category_id": "1553745279868604597",
+      "category_name": "SCRIPTS"
+    },
+    {
+      "id": "1553755727401844777",
+      "name": "🛠️・developer-logs",
+      "type": "text",
+      "category_id": "1553745279868604597",
+      "category_name": "SCRIPTS"
+    },
+    {
+      "id": "1553755729498742886",
+      "name": "📦・resources",
+      "type": "text",
+      "category_id": "1553745279868604597",
+      "category_name": "SCRIPTS"
+    },
+    {
+      "id": "1553755732787335310",
+      "name": "💬・general",
+      "type": "text",
+      "category_id": "1553745280774578260",
+      "category_name": "COMMUNITY"
+    },
+    {
+      "id": "1553755735316234282",
+      "name": "🆘・support",
+      "type": "text",
+      "category_id": "1553745280774578260",
+      "category_name": "COMMUNITY"
+    },
+    {
+      "id": "1553755737900191765",
+      "name": "🐛・bug-reports",
+      "type": "text",
+      "category_id": "1553745280774578260",
+      "category_name": "COMMUNITY"
+    },
+    {
+      "id": "1553755739888292013",
+      "name": "🎨・showcase",
+      "type": "text",
+      "category_id": "1553745280774578260",
+      "category_name": "COMMUNITY"
+    },
+    {
+      "id": "1553755741595377841",
+      "name": "🔒・staff",
+      "type": "text",
+      "category_id": "1553745281718161441",
+      "category_name": "STAFF"
+    },
+    {
+      "id": "1553755744585912322",
+      "name": "📝・staff-logs",
+      "type": "text",
+      "category_id": "1553745281718161441",
+      "category_name": "STAFF"
     }
   ],
   "panels": {},
-  "updated_at": 1790534294
+  "updated_at": 1790534344
 }
