@@ -124,7 +124,9 @@
   ],
   "panels": {
     "dashboard_message_id": "1553761901639630979",
-    "dashboard_channel_id": "1553751661527302204"
+    "dashboard_channel_id": "1553751661527302204",
+    "bug_report_message_id": "1553769611709644964",
+    "bug_report_channel_id": "1553755737900191765"
   },
-  "updated_at": 1790534345
+  "updated_at": 1790534347
 }
