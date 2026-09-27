@@ -10,6 +10,13 @@
       "category_name": null
     },
     {
+      "id": "1553849944589213878",
+      "name": "dont-type-here❌",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
+    },
+    {
       "id": "1553751655881642154",
       "name": "👋・welcome",
       "type": "text",
@@ -128,5 +135,5 @@
     "bug_report_message_id": "1553769611709644964",
     "bug_report_channel_id": "1553755737900191765"
   },
-  "updated_at": 1790536985
+  "updated_at": 1790537191
 }
