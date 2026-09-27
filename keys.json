@@ -1,6 +1,6 @@
 {
   "6C4Q1DE0-FLVD61E0-XI0PVBXS-SM5QPXE0": {
-    "status": "revoked",
+    "status": "active",
     "license_type": "lifetime",
     "generated_for_discord_id": "1431995372280090667",
     "generated_at": 1790535905,
@@ -14,7 +14,6 @@
         "linked_at": 1790535950
       }
     ],
-    "last_roblox_link_at": 1790535950,
-    "revoked_at": 1790536426
+    "last_roblox_link_at": 1790535950
   }
 }
