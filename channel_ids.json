@@ -3,18 +3,60 @@
   "guild_name": "N8 (BETA)",
   "channels": [
     {
+      "id": "1562145343783575726",
+      "name": "dont-type-here⚠️",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
+    },
+    {
       "id": "1562098571409629254",
       "name": "welcome",
       "type": "text",
-      "category_id": "1562098569924583504",
+      "category_id": "1562147922059984906",
       "category_name": "START HERE"
     },
     {
       "id": "1562094934016925727",
       "name": "announcements",
       "type": "text",
-      "category_id": "1562098569924583504",
+      "category_id": "1562147922059984906",
       "category_name": "START HERE"
+    },
+    {
+      "id": "1562132351889313853",
+      "name": "updates",
+      "type": "text",
+      "category_id": "1562098569924583504",
+      "category_name": "IMPORTANT"
+    },
+    {
+      "id": "1562132377612976148",
+      "name": "releases",
+      "type": "text",
+      "category_id": "1562098569924583504",
+      "category_name": "IMPORTANT"
+    },
+    {
+      "id": "1562132635117953034",
+      "name": "tos",
+      "type": "text",
+      "category_id": "1562098569924583504",
+      "category_name": "IMPORTANT"
+    },
+    {
+      "id": "1562144887930101861",
+      "name": "tickets",
+      "type": "text",
+      "category_id": "1562144841255616675",
+      "category_name": "PURCHASE"
+    },
+    {
+      "id": "1562144900454154321",
+      "name": "vouches",
+      "type": "text",
+      "category_id": "1562144841255616675",
+      "category_name": "PURCHASE"
     },
     {
       "id": "1562094959312506981",
@@ -24,25 +66,46 @@
       "category_name": "COMMUNITY"
     },
     {
-      "id": "1562098612085854289",
-      "name": "suggestions",
+      "id": "1562132723139874947",
+      "name": "media",
       "type": "text",
       "category_id": "1562098594037895298",
       "category_name": "COMMUNITY"
     },
     {
-      "id": "1562094945811304620",
-      "name": "showcases",
+      "id": "1562132832342769798",
+      "name": "bot-commands",
       "type": "text",
-      "category_id": "1562098619535065220",
-      "category_name": "MARKETPLACE"
+      "category_id": "1562098594037895298",
+      "category_name": "COMMUNITY"
     },
     {
-      "id": "1562094938907484243",
-      "name": "scripts",
+      "id": "1562132695138439390",
+      "name": "script-ideas",
       "type": "text",
       "category_id": "1562098619535065220",
-      "category_name": "MARKETPLACE"
+      "category_name": "SCRIPTS"
+    },
+    {
+      "id": "1562132996654370916",
+      "name": "showcases",
+      "type": "forum",
+      "category_id": "1562098619535065220",
+      "category_name": "SCRIPTS"
+    },
+    {
+      "id": "1562144648015650949",
+      "name": "robux-sender",
+      "type": "text",
+      "category_id": "1562098619535065220",
+      "category_name": "SCRIPTS"
+    },
+    {
+      "id": "1562144679170936962",
+      "name": "marketplace-gifter",
+      "type": "text",
+      "category_id": "1562098619535065220",
+      "category_name": "SCRIPTS"
     },
     {
       "id": "1562094952895221931",
@@ -59,18 +122,39 @@
       "category_name": "STAFF"
     },
     {
-      "id": "1562098661943414864",
+      "id": "1562147929261744242",
+      "name": "suggestions",
+      "type": "text",
+      "category_id": "1562098594037895298",
+      "category_name": "COMMUNITY"
+    },
+    {
+      "id": "1562147934517203074",
+      "name": "scripts",
+      "type": "text",
+      "category_id": "1562147933548454058",
+      "category_name": "MARKETPLACE"
+    },
+    {
+      "id": "1562147938065453146",
+      "name": "showcases",
+      "type": "text",
+      "category_id": "1562147933548454058",
+      "category_name": "MARKETPLACE"
+    },
+    {
+      "id": "1562147942931111957",
+      "name": "helpdesk",
+      "type": "text",
+      "category_id": "1562147941890654269",
+      "category_name": "HELP"
+    },
+    {
+      "id": "1562147959171326022",
       "name": "mod-queue",
       "type": "text",
       "category_id": "1562098652934185052",
       "category_name": "STAFF"
-    },
-    {
-      "id": "1562105807829729303",
-      "name": "helpdesk",
-      "type": "text",
-      "category_id": "1562105806575370360",
-      "category_name": "HELP"
     }
   ],
   "panels": {
@@ -83,5 +167,5 @@
     "user_hub_message_id": "1562105830336102462",
     "user_hub_channel_id": "1562105807829729303"
   },
-  "updated_at": 1792514703
+  "updated_at": 1792515498
 }
