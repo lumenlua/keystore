@@ -3,6 +3,13 @@
   "guild_name": "N8 (BETA)",
   "channels": [
     {
+      "id": "1562150062459457668",
+      "name": "showcases",
+      "type": "forum",
+      "category_id": "1562150056138899518",
+      "category_name": "SCRIPTS"
+    },
+    {
       "id": "1562098571409629254",
       "name": "welcome",
       "type": "text",
@@ -13,8 +20,8 @@
       "id": "1562094934016925727",
       "name": "announcements",
       "type": "text",
-      "category_id": "1562147922059984906",
-      "category_name": "START HERE"
+      "category_id": "1562150026648756225",
+      "category_name": "ANNOUNCEMENTS"
     },
     {
       "id": "1562094959312506981",
@@ -48,15 +55,8 @@
       "id": "1562147934517203074",
       "name": "scripts",
       "type": "text",
-      "category_id": "1562147933548454058",
-      "category_name": "MARKETPLACE"
-    },
-    {
-      "id": "1562147938065453146",
-      "name": "showcases",
-      "type": "text",
-      "category_id": "1562147933548454058",
-      "category_name": "MARKETPLACE"
+      "category_id": "1562150056138899518",
+      "category_name": "SCRIPTS"
     },
     {
       "id": "1562147942931111957",
@@ -71,6 +71,62 @@
       "type": "text",
       "category_id": "1562098652934185052",
       "category_name": "STAFF"
+    },
+    {
+      "id": "1562150023989297163",
+      "name": "rules",
+      "type": "text",
+      "category_id": "1562147922059984906",
+      "category_name": "START HERE"
+    },
+    {
+      "id": "1562150032356937901",
+      "name": "updates",
+      "type": "text",
+      "category_id": "1562150026648756225",
+      "category_name": "ANNOUNCEMENTS"
+    },
+    {
+      "id": "1562150036278616184",
+      "name": "releases",
+      "type": "text",
+      "category_id": "1562150026648756225",
+      "category_name": "ANNOUNCEMENTS"
+    },
+    {
+      "id": "1562150039395115028",
+      "name": "tos",
+      "type": "text",
+      "category_id": "1562150026648756225",
+      "category_name": "ANNOUNCEMENTS"
+    },
+    {
+      "id": "1562150044176752660",
+      "name": "script-ideas",
+      "type": "text",
+      "category_id": "1562150042280796210",
+      "category_name": "SCRIPT IDEAS"
+    },
+    {
+      "id": "1562150050241581178",
+      "name": "media",
+      "type": "text",
+      "category_id": "1562098594037895298",
+      "category_name": "COMMUNITY"
+    },
+    {
+      "id": "1562150053286510644",
+      "name": "bot-commands",
+      "type": "text",
+      "category_id": "1562098594037895298",
+      "category_name": "COMMUNITY"
+    },
+    {
+      "id": "1562150069266948187",
+      "name": "other-stuff",
+      "type": "text",
+      "category_id": "1562150056138899518",
+      "category_name": "SCRIPTS"
     }
   ],
   "panels": {
@@ -83,5 +139,5 @@
     "user_hub_message_id": "1562147976439271576",
     "user_hub_channel_id": "1562144887930101861"
   },
-  "updated_at": 1792515507
+  "updated_at": 1792516000
 }
