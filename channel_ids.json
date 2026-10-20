@@ -127,6 +127,76 @@
       "type": "text",
       "category_id": "1553745281718161441",
       "category_name": "STAFF"
+    },
+    {
+      "id": "1562094934016925727",
+      "name": "announcements",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
+    },
+    {
+      "id": "1562094936310947950",
+      "name": "faq",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
+    },
+    {
+      "id": "1562094938907484243",
+      "name": "scripts",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
+    },
+    {
+      "id": "1562094945811304620",
+      "name": "showcases",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
+    },
+    {
+      "id": "1562094947987882074",
+      "name": "developer-logs",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
+    },
+    {
+      "id": "1562094949795635244",
+      "name": "tickets",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
+    },
+    {
+      "id": "1562094952895221931",
+      "name": "staff",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
+    },
+    {
+      "id": "1562094955521118208",
+      "name": "staff-logs",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
+    },
+    {
+      "id": "1562094959312506981",
+      "name": "general",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
+    },
+    {
+      "id": "1562094961980342392",
+      "name": "media",
+      "type": "text",
+      "category_id": null,
+      "category_name": null
     }
   ],
   "panels": {
@@ -137,5 +207,5 @@
     "support_message_id": "1554209796469559307",
     "support_channel_id": "1553755735316234282"
   },
-  "updated_at": 1792502853
+  "updated_at": 1792502862
 }
