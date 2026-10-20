@@ -10,13 +10,6 @@
       "category_name": "START HERE"
     },
     {
-      "id": "1562094936310947950",
-      "name": "faq",
-      "type": "text",
-      "category_id": "1562098569924583504",
-      "category_name": "START HERE"
-    },
-    {
       "id": "1562094945811304620",
       "name": "showcases",
       "type": "text",
@@ -45,32 +38,11 @@
       "category_name": "MARKETPLACE"
     },
     {
-      "id": "1562094947987882074",
-      "name": "developer-logs",
-      "type": "text",
-      "category_id": "1562098619535065220",
-      "category_name": "MARKETPLACE"
-    },
-    {
       "id": "1562094959312506981",
       "name": "general",
       "type": "text",
       "category_id": "1562098594037895298",
       "category_name": "COMMUNITY"
-    },
-    {
-      "id": "1562094961980342392",
-      "name": "media",
-      "type": "text",
-      "category_id": "1562098594037895298",
-      "category_name": "COMMUNITY"
-    },
-    {
-      "id": "1562094949795635244",
-      "name": "tickets",
-      "type": "text",
-      "category_id": "1562098638052786308",
-      "category_name": "SUPPORT"
     },
     {
       "id": "1562098571409629254",
@@ -80,81 +52,11 @@
       "category_name": "START HERE"
     },
     {
-      "id": "1562098574634918008",
-      "name": "rules",
-      "type": "text",
-      "category_id": "1562098569924583504",
-      "category_name": "START HERE"
-    },
-    {
-      "id": "1562098590212427956",
-      "name": "server-guide",
-      "type": "text",
-      "category_id": "1562098569924583504",
-      "category_name": "START HERE"
-    },
-    {
-      "id": "1562098600064852119",
-      "name": "introductions",
-      "type": "text",
-      "category_id": "1562098594037895298",
-      "category_name": "COMMUNITY"
-    },
-    {
-      "id": "1562098608864764034",
-      "name": "off-topic",
-      "type": "text",
-      "category_id": "1562098594037895298",
-      "category_name": "COMMUNITY"
-    },
-    {
       "id": "1562098612085854289",
       "name": "suggestions",
       "type": "text",
       "category_id": "1562098594037895298",
       "category_name": "COMMUNITY"
-    },
-    {
-      "id": "1562098615885893715",
-      "name": "polls",
-      "type": "text",
-      "category_id": "1562098594037895298",
-      "category_name": "COMMUNITY"
-    },
-    {
-      "id": "1562098624727359608",
-      "name": "releases",
-      "type": "text",
-      "category_id": "1562098619535065220",
-      "category_name": "MARKETPLACE"
-    },
-    {
-      "id": "1562098634949136474",
-      "name": "resources",
-      "type": "text",
-      "category_id": "1562098619535065220",
-      "category_name": "MARKETPLACE"
-    },
-    {
-      "id": "1562098641760428084",
-      "name": "licenses",
-      "type": "text",
-      "category_id": "1562098638052786308",
-      "category_name": "SUPPORT"
-    },
-    {
-      "id": "1562098645698875462",
-      "name": "bug-reports",
-      "type": "text",
-      "category_id": "1562098638052786308",
-      "category_name": "SUPPORT"
-    },
-    {
-      "id": "1562098649670885548",
-      "name": "bot-commands",
-      "type": "text",
-      "category_id": "1562098638052786308",
-      "category_name": "SUPPORT"
     },
     {
       "id": "1562098661943414864",
@@ -181,5 +83,5 @@
     "user_hub_message_id": "1562105830336102462",
     "user_hub_channel_id": "1562105807829729303"
   },
-  "updated_at": 1792505684
+  "updated_at": 1792505690
 }
