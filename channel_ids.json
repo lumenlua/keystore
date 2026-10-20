@@ -31,46 +31,11 @@
       "category_name": "COMMUNITY"
     },
     {
-      "id": "1562094952895221931",
-      "name": "staff",
-      "type": "text",
-      "category_id": "1562098652934185052",
-      "category_name": "STAFF"
-    },
-    {
-      "id": "1562094955521118208",
-      "name": "staff-logs",
-      "type": "text",
-      "category_id": "1562098652934185052",
-      "category_name": "STAFF"
-    },
-    {
-      "id": "1562147929261744242",
-      "name": "suggestions",
-      "type": "text",
-      "category_id": "1562098594037895298",
-      "category_name": "COMMUNITY"
-    },
-    {
       "id": "1562147934517203074",
       "name": "scripts",
       "type": "text",
       "category_id": "1562150056138899518",
       "category_name": "SCRIPTS"
-    },
-    {
-      "id": "1562147942931111957",
-      "name": "helpdesk",
-      "type": "text",
-      "category_id": "1562147941890654269",
-      "category_name": "HELP"
-    },
-    {
-      "id": "1562147959171326022",
-      "name": "mod-queue",
-      "type": "text",
-      "category_id": "1562098652934185052",
-      "category_name": "STAFF"
     },
     {
       "id": "1562150023989297163",
@@ -139,5 +104,5 @@
     "user_hub_message_id": "1562147976439271576",
     "user_hub_channel_id": "1562144887930101861"
   },
-  "updated_at": 1792516000
+  "updated_at": 1792516006
 }
