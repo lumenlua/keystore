@@ -6,71 +6,71 @@
       "id": "1562094934016925727",
       "name": "announcements",
       "type": "text",
-      "category_id": null,
-      "category_name": null
+      "category_id": "1562095126526820495",
+      "category_name": "info"
     },
     {
       "id": "1562094936310947950",
       "name": "faq",
       "type": "text",
-      "category_id": null,
-      "category_name": null
-    },
-    {
-      "id": "1562094938907484243",
-      "name": "scripts",
-      "type": "text",
-      "category_id": null,
-      "category_name": null
+      "category_id": "1562095126526820495",
+      "category_name": "info"
     },
     {
       "id": "1562094945811304620",
       "name": "showcases",
       "type": "text",
-      "category_id": null,
-      "category_name": null
-    },
-    {
-      "id": "1562094947987882074",
-      "name": "developer-logs",
-      "type": "text",
-      "category_id": null,
-      "category_name": null
-    },
-    {
-      "id": "1562094949795635244",
-      "name": "tickets",
-      "type": "text",
-      "category_id": null,
-      "category_name": null
+      "category_id": "1562095126526820495",
+      "category_name": "info"
     },
     {
       "id": "1562094952895221931",
       "name": "staff",
       "type": "text",
-      "category_id": null,
-      "category_name": null
+      "category_id": "1562095126526820495",
+      "category_name": "info"
     },
     {
       "id": "1562094955521118208",
       "name": "staff-logs",
       "type": "text",
-      "category_id": null,
-      "category_name": null
+      "category_id": "1562095126526820495",
+      "category_name": "info"
+    },
+    {
+      "id": "1562094938907484243",
+      "name": "scripts",
+      "type": "text",
+      "category_id": "1562095233272123483",
+      "category_name": "development"
+    },
+    {
+      "id": "1562094947987882074",
+      "name": "developer-logs",
+      "type": "text",
+      "category_id": "1562095233272123483",
+      "category_name": "development"
     },
     {
       "id": "1562094959312506981",
       "name": "general",
       "type": "text",
-      "category_id": null,
-      "category_name": null
+      "category_id": "1562095476331774002",
+      "category_name": "communication"
     },
     {
       "id": "1562094961980342392",
       "name": "media",
       "type": "text",
-      "category_id": null,
-      "category_name": null
+      "category_id": "1562095476331774002",
+      "category_name": "communication"
+    },
+    {
+      "id": "1562094949795635244",
+      "name": "tickets",
+      "type": "text",
+      "category_id": "1562095476331774002",
+      "category_name": "communication"
     }
   ],
   "panels": {
@@ -81,5 +81,5 @@
     "support_message_id": "1562094982179848273",
     "support_channel_id": "1562094949795635244"
   },
-  "updated_at": 1792503454
+  "updated_at": 1792503636
 }
