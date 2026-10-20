@@ -162,6 +162,13 @@
       "type": "text",
       "category_id": "1562098652934185052",
       "category_name": "STAFF"
+    },
+    {
+      "id": "1562105807829729303",
+      "name": "helpdesk",
+      "type": "text",
+      "category_id": "1562105806575370360",
+      "category_name": "HELP"
     }
   ],
   "panels": {
@@ -172,5 +179,5 @@
     "support_message_id": "1562094982179848273",
     "support_channel_id": "1562094949795635244"
   },
-  "updated_at": 1792505420
+  "updated_at": 1792505449
 }
