@@ -165,12 +165,12 @@
     }
   ],
   "panels": {
-    "dashboard_message_id": "1562096184972279829",
-    "dashboard_channel_id": "1562094949795635244",
+    "dashboard_message_id": "1562098676124614759",
+    "dashboard_channel_id": "1562098641760428084",
     "bug_report_message_id": "1554235945962971189",
     "bug_report_channel_id": "1553755737900191765",
     "support_message_id": "1562094982179848273",
     "support_channel_id": "1562094949795635244"
   },
-  "updated_at": 1792503744
+  "updated_at": 1792503747
 }
