@@ -3,13 +3,6 @@
   "guild_name": "N8 (BETA)",
   "channels": [
     {
-      "id": "1553739803244372022",
-      "name": "General",
-      "type": "voice",
-      "category_id": null,
-      "category_name": null
-    },
-    {
       "id": "1553849944589213878",
       "name": "dont-type-here❌",
       "type": "text",
@@ -144,5 +137,5 @@
     "support_message_id": "1554209796469559307",
     "support_channel_id": "1553755735316234282"
   },
-  "updated_at": 1792502699
+  "updated_at": 1792502845
 }
