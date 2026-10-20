@@ -3,6 +3,13 @@
   "guild_name": "N8 (BETA)",
   "channels": [
     {
+      "id": "1562098571409629254",
+      "name": "welcome",
+      "type": "text",
+      "category_id": "1562098569924583504",
+      "category_name": "START HERE"
+    },
+    {
       "id": "1562094934016925727",
       "name": "announcements",
       "type": "text",
@@ -10,8 +17,29 @@
       "category_name": "START HERE"
     },
     {
+      "id": "1562094959312506981",
+      "name": "general",
+      "type": "text",
+      "category_id": "1562098594037895298",
+      "category_name": "COMMUNITY"
+    },
+    {
+      "id": "1562098612085854289",
+      "name": "suggestions",
+      "type": "text",
+      "category_id": "1562098594037895298",
+      "category_name": "COMMUNITY"
+    },
+    {
       "id": "1562094945811304620",
       "name": "showcases",
+      "type": "text",
+      "category_id": "1562098619535065220",
+      "category_name": "MARKETPLACE"
+    },
+    {
+      "id": "1562094938907484243",
+      "name": "scripts",
       "type": "text",
       "category_id": "1562098619535065220",
       "category_name": "MARKETPLACE"
@@ -29,34 +57,6 @@
       "type": "text",
       "category_id": "1562098652934185052",
       "category_name": "STAFF"
-    },
-    {
-      "id": "1562094938907484243",
-      "name": "scripts",
-      "type": "text",
-      "category_id": "1562098619535065220",
-      "category_name": "MARKETPLACE"
-    },
-    {
-      "id": "1562094959312506981",
-      "name": "general",
-      "type": "text",
-      "category_id": "1562098594037895298",
-      "category_name": "COMMUNITY"
-    },
-    {
-      "id": "1562098571409629254",
-      "name": "welcome",
-      "type": "text",
-      "category_id": "1562098569924583504",
-      "category_name": "START HERE"
-    },
-    {
-      "id": "1562098612085854289",
-      "name": "suggestions",
-      "type": "text",
-      "category_id": "1562098594037895298",
-      "category_name": "COMMUNITY"
     },
     {
       "id": "1562098661943414864",
@@ -83,5 +83,5 @@
     "user_hub_message_id": "1562105830336102462",
     "user_hub_channel_id": "1562105807829729303"
   },
-  "updated_at": 1792506293
+  "updated_at": 1792506597
 }
